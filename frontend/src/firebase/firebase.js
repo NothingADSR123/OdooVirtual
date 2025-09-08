@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCvK0iBeJuP0dKzOu0fG7o3Vl_0zqPHocU",
+  apiKey: "ENTER YOUR API KEY HERE",
   authDomain: "odoovirtual.firebaseapp.com",
   projectId: "odoovirtual",
   storageBucket: "odoovirtual.firebasestorage.app",
