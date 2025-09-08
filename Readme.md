@@ -55,17 +55,27 @@ Every listing extends the lifecycle of a product, reduces carbon footprint, and 
 ------------------------------------------------------------
 
 ## 🚀 Installation (Developer Mode)
-# 1. Clone the repository  
-git clone https://github.com/NothingADSR123/OdooVirtual.git  
+# 🚀 Setup Instructions
 
-# 2. Navigate into the project  
-cd OdooVirtual  
+## 1. Clone the repository
+```bash
+git clone https://github.com/NothingADSR123/OdooVirtual.git
+```
 
-# 3. Install dependencies  
-npm install  
+## 2. Navigate into the project
+```bash
+cd OdooVirtual
+```
 
-# 4. Run the app  
-npm start  
+## 3. Install dependencies
+```bash
+npm install
+```
+
+## 4. Run the app
+```bash
+npm start
+```
 
 The app will be live at http://localhost:3000 🌍  
 
